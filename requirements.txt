@@ -1,2 +1,2 @@
 plotly==5.7.0
-pysurvival
+pysurvival==0.1.2
