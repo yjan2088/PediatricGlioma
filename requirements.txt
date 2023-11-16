@@ -1,10 +1,1 @@
-setuptools
-scikit-survival
-lifelines
-pycox
-seaborn
-scikit-learn==1.0
-streamlit==1.8.1
-pandas>1.0
 plotly==5.7.0
-pysurvival==0.1.2
