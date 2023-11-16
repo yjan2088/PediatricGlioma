@@ -1,6 +1,3 @@
-streamlit
-numpy
-pandas
 plotly
 pickle
 pysurvival
