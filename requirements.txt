@@ -1,7 +1,6 @@
 pip==23.3.1
-sklearn==0.0.post1
 setuptools
 plotly==5.7.0
-scikit-learn
+scikit-learn==1.0.2
 pysurvival==0.1.2
 
