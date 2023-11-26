@@ -4,7 +4,6 @@ numpy
 scipy
 matplotlib
 scikit-learn
-sklearn==0.0.post11
 plotly==5.7.0
 scikit-learn==1.0.2
 pysurvival==0.1.2
