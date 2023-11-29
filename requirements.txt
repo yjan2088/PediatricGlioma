@@ -184,7 +184,7 @@ semver==2.13.0
 Send2Trash==1.8.0
 setuptools==65.6.3
 simplejson==3.18.4
-sip==4.19.13
+sip
 six==1.16.0
 sklearn==0.0.post1
 smmap==5.0.0
