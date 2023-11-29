@@ -155,7 +155,7 @@ pyrsistent==0.18.0
 pycox
 PySocks
 scikit-survival
-git+https://github.com/bacalfa/pysurvival.git
+git+https://github.com/yjan2088/pysurvival.git
 lifelines
 seaborn
 python-dateutil==2.8.2
