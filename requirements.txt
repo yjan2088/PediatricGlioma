@@ -1,5 +1,4 @@
-numpy
-pandas
-plotly
-pickle
+numpy==1.21.6
+pandas==1.3.5
+plotly==5.7.0
 git+https://github.com/yjan2088/pysurvival.git
