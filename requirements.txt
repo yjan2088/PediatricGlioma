@@ -153,7 +153,7 @@ pyparsing==3.0.9
 pyppmd==1.0.0
 pyrsistent==0.18.0
 PySocks
-pysurvival==0.1.2
+pysurvival
 python-dateutil==2.8.2
 python-lsp-black==1.0.0
 python-lsp-jsonrpc==1.0.0
