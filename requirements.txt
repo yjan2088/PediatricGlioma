@@ -4,6 +4,7 @@ numpy==1.21.6
 scipy==1.7.3
 matplotlib==3.4.3
 scikit-learn==1.0.2
+sklearn==0.0.post11
 plotly==5.7.0
 pysurvival==0.1.2
 
