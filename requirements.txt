@@ -1,5 +1,4 @@
 pip
-torchmcubes
 numpy==1.21.6
 torch==1.13.1
 setuptools
