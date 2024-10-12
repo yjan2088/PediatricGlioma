@@ -5,5 +5,5 @@ setuptools
 streamlit
 pandas==1.3.5
 plotly==5.7.0
-git+https://github.com/bacalfa/pysurvival.git
+git+https://github.com/yjan2088/pysurvival_test.git
 
