@@ -1,6 +1,8 @@
 pip
-setuptools
 numpy==1.21.6
+torch==1.13.1
+setuptools
+
 pandas==1.3.5
 plotly==5.7.0
 git+https://github.com/yjan2088/pysurvival.git
